@@ -1,0 +1,46 @@
+{
+  "keywordFileContentHash": "AF47A580B50AAFE9E39328FBFE606B3F",
+  "keywordClasses": [
+    {
+      "name": "a.bc",
+      "keywordMethods": [
+        {
+          "name": "isElementPresent_Mobile",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "timeout",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "getCurrentSessionMobileDriver",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
